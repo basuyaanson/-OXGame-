@@ -1,0 +1,16 @@
+C:\Users\Student\Source\Repos\OXGame\bin\Debug\net6.0-windows\OXGameV1.exe
+C:\Users\Student\Source\Repos\OXGame\bin\Debug\net6.0-windows\OXGameV1.deps.json
+C:\Users\Student\Source\Repos\OXGame\bin\Debug\net6.0-windows\OXGameV1.runtimeconfig.json
+C:\Users\Student\Source\Repos\OXGame\bin\Debug\net6.0-windows\OXGameV1.dll
+C:\Users\Student\Source\Repos\OXGame\bin\Debug\net6.0-windows\OXGameV1.pdb
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGame.Form1.resources
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.dll
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\refint\OXGameV1.dll
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.pdb
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\OXGameV1.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\OXGame\obj\Debug\net6.0-windows\ref\OXGameV1.dll
